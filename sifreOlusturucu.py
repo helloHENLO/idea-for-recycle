@@ -13,4 +13,4 @@ def sifreOlusturucu(sayi):
 
     return sifre
 
-tokenn=""
+tokenn=""   #write your own token
